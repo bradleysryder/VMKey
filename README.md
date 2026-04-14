@@ -39,3 +39,6 @@ VMKey.py host username password vm --key CTRL_ALT_DEL
 __Notes__
 
 Available keys are listed in HIDCode variable.
+
+
+![RepoVital](https://api.repovital.com/badge/bradleysryder/VMKey)
